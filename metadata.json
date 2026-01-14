@@ -1,6 +1,6 @@
 {
   "name": "VibeStream Pro",
-  "description": "A futuristic AI-powered music ecosystem with dual-engine streaming, local binary storage, and Gemini-driven semantic discovery.",
+  "description": "A futuristic  music ecosystem with dual-engine streaming, local binary storage, .",
   "requestFramePermissions": [
     "microphone"
   ]
